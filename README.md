@@ -2,8 +2,8 @@ hardhat install:
 https://hardhat.org/tutorial/setting-up-the-environment
 
 Nodos blockchain:
-https://www.alchemy.com/
-https://infura.io/
+* https://www.alchemy.com/
+* https://infura.io/
 
 EtherScan Key
 https://etherscan.io/login
