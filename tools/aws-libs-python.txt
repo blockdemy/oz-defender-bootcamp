@@ -1,0 +1,5 @@
+ 1171  pip3 install boto3
+ 1173  pip3 install warrant
+ 1177  pip3 install sagemaker
+ 1188  history | grep pip3
+ 1189  history | grep pip3 > aws-libs-python.txt
