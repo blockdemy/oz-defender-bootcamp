@@ -2,21 +2,21 @@ hardhat install:
 https://hardhat.org/tutorial/setting-up-the-environment
 
 Nodos blockchain:
-https://www.alchemy.com/
-https://infura.io/
+* https://www.alchemy.com/
+* https://infura.io/
 
 EtherScan Key
 https://etherscan.io/login
 
 instalación modulos:
 
-1.- cd oz-defender-bootcamp 
-2.- npm install
+* cd oz-defender-bootcamp 
+* npm install
 
 Ejecución de scripts defender
 
 Ejemplo:
-npx hardhat run admin/<script> --network rinkeby|local
+* npx hardhat run admin/<script> --network rinkeby|local
 
 Ejecución peticiones https a través CURL CLI refierase a los files end-points-<modulo difender>.sh
 
@@ -40,16 +40,16 @@ https://github.com/localstack/awscli-local
 token AWS-OZ:
 
 Admin .-
-username: API_KEY
-password: API_SECRET
-pool_id: us-west-2_94f3puJWv
-client_id: 40e58hbc7pktmnp9i26hh5nsav
+* username: API_KEY
+* password: API_SECRET
+* pool_id: us-west-2_94f3puJWv
+* client_id: 40e58hbc7pktmnp9i26hh5nsav
 
 Relayer .- 
-username: API_KEY
-password: API_SECRET
-pool_id: us-west-2_iLmIggsiy
-client_id: 1bpd19lcr33qvg5cr3oi79rdap
+* username: API_KEY
+* password: API_SECRET
+* pool_id: us-west-2_iLmIggsiy
+* client_id: 1bpd19lcr33qvg5cr3oi79rdap
 
 pkg python:
 
