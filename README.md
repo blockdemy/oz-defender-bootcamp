@@ -63,6 +63,9 @@ Obtener Token = curl Authentication: Bearer $TOKEN:
 
 Python3.8 <tools/aws-token-admin.py|aws-token-relayer.py>
 
+Revisar contenido de token:
+* https://jwt.io/
+
 ngrok install:
 
 https://ngrok.com/download
