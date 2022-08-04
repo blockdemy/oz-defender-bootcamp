@@ -6,7 +6,7 @@ Nodos blockchain:
 * https://infura.io/
 
 EtherScan Key
-https://etherscan.io/login
+* https://etherscan.io/login
 
 instalación modulos:
 
